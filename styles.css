@@ -80,10 +80,7 @@ img {
 }
 
 
-button.reset {
-  background-color: var(--white);
-  color: var(--black);
-}
-button.number {
+
+button.generate {
   background-color: green;
 }
