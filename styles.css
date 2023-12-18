@@ -24,7 +24,7 @@ html {
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: var(--black);
+  
 }
 
 p {
@@ -63,6 +63,8 @@ img {
 
 .randomColor {
   font-size: 4rem;
+  border: 1px solid var(--white);
+  padding: 0 1rem;
 }
 
 .buttons button {
